@@ -63,4 +63,7 @@ You can also change the **sort criteria** for the issues, there are many possibi
 
 ## Get started
 
+All set? Go ahead and create your first issue and contribute with our communnity! :grin::tada:  
 
+![alt-text-3](https://user-images.githubusercontent.com/18701182/60684393-ed3aeb80-9e73-11e9-87b9-012f5368dbbf.png "title-2")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt-text-2](https://user-images.githubusercontent.com/18701182/60684371-cc729600-9e73-11e9-929d-2bbc3f599565.png "title-2")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![alt-text-1](https://user-images.githubusercontent.com/18701182/60684351-b49b1200-9e73-11e9-837d-1d5fadb3e366.png "title-1")
