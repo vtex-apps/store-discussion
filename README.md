@@ -37,8 +37,13 @@ Other people will probably go through the same problem as yours eventually, when
 
 This is not a place only for integrators to talk to VTEX team, it is a place of knowledge trading, so please go through questions, see if you can help someone else, answer questions even if they're already answered, multiple perspectives can be very helpful.
 
-## Behavior code
+## Keep up to date
 
+You can follow updates in the community by enabling **Watching** on the **Watch** button, on the upper right corner. 
+
+![image](https://user-images.githubusercontent.com/18701182/60679682-e8b80800-9e5e-11e9-8e94-1812f39a9ce9.png)
+
+ We'll be making periodic announcements at the repository's **Releases**, so make sure to keep an eye on that. 
 
 
 ## Filtering Issues
