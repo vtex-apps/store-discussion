@@ -41,7 +41,7 @@ This is not a place only for integrators to talk to VTEX team, it is a place of 
 
 You can follow updates in the community by enabling **Watching** on the **Watch** button, on the upper right corner. 
 
-![image](https://user-images.githubusercontent.com/18701182/60679682-e8b80800-9e5e-11e9-8e94-1812f39a9ce9.png)
+![image](https://user-images.githubusercontent.com/18701182/60679780-3f254680-9e5f-11e9-907c-919bbd2bcb46.png)
 
  We'll be making periodic announcements at the repository's **Releases**, so make sure to keep an eye on that. 
 
