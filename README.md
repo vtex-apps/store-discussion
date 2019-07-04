@@ -45,6 +45,18 @@ You can follow updates in the community by enabling **Watching** on the **Watch*
 
  We'll be making periodic announcements at the repository's **Releases**, so make sure to keep an eye on that. 
 
-
 ## Filtering Issues
 
+GitHub tags are our way for dividing our issues between topics, make sure to use it, to better navigate among the issues. 
+
+You can select an specific label for **filtering through Questions, Bugs or Enhancements**.
+
+![image](https://user-images.githubusercontent.com/18701182/60682041-0a69bd00-9e68-11e9-8ee2-f388ddf225a8.png)
+
+You can also **filter by authors**, to see, for instance, which questions your team made.
+
+![image](https://user-images.githubusercontent.com/18701182/60682095-5d437480-9e68-11e9-9933-5651efa063a4.png)
+
+You can also change the **sort criteria** for the issues, there are many possibilities. You could, for example, look for the most and least commented ones, the ones with most :thumbsup: and most recent update. 
+
+![image](https://user-images.githubusercontent.com/18701182/60682317-39ccf980-9e69-11e9-9b4e-95c51753bee0.png)
