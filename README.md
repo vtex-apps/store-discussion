@@ -23,4 +23,7 @@ Before jumping and creating an issue, please follow our good practices guides:
 
  **1. Search on our community**
  
-A community is the best place to have an FAQ, remember that if you're having a problem it means that someone probably already has gone through something similar. Please, use GitHub issue filter and make sure nobody has created anything similar before. Also make sure to check our session on [Filtering Issues]()
+A community is the best place to have an FAQ, remember that if you're having a problem it means that someone probably already has gone through something similar. Please, use GitHub issue filter and make sure nobody has created anything similar before. Also make sure to check our session on [Filtering Issues](https://github.com/vtex-apps/store-discussion#filtering-issues)
+
+
+## Filtering Issues
