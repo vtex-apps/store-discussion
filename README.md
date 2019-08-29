@@ -63,6 +63,14 @@ You can also change the **sort criteria** for the issues, there are many possibi
 
 ![image](https://user-images.githubusercontent.com/18701182/60682317-39ccf980-9e69-11e9-9b4e-95c51753bee0.png)
 
+## Keeping track 
+
+We divide **bug reports** and **feature requests** along milestones. If you want to have a nice view to understand expectation on deliverables, please go to: 
+
+[Our milestones](https://github.com/vtex-apps/store-discussion/milestones)
+
+![image](https://user-images.githubusercontent.com/18701182/63970867-93256380-ca7b-11e9-96d7-e3dea3010c70.png)
+
 ## Get started
 
 All set? Go ahead and create your first issue and contribute with our communnity! :grin::tada:  
