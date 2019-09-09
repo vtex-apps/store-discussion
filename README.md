@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/18701182/60618739-5d326e80-9dad-11e9-8dc1-55a938de461e.png">
 </p>
 
-<h4 align="center">VTEX IO community for store builders</h4>
+<h4 align="center">VTEX IO community for store developers</h4>
 
 ---------------
 
