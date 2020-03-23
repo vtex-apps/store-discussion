@@ -1,5 +1,4 @@
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 <p align="center">
 <img src="https://user-images.githubusercontent.com/18701182/60618739-5d326e80-9dad-11e9-8dc1-55a938de461e.png">
 </p>
@@ -18,10 +17,13 @@ It's, therefore, a central **place to**:
  - Report bugs;
  - Request features
 
+## Code of Conduct
+
+Before participating in Store Framework’s communities, please [read our Code of Conduct](./CODE_OF_CONDUCT.md). We have adopted the Contributor Covenant and we expect that all community members adhere to the guidelines within.
 
 ## Good practices
 
-Before jumping and creating an issue, please read [our Code of Conduct](./CODE_OF_CONDUCT.md) and follow our good practices guides:
+Before jumping and creating an issue, follow the good practices:
 
  **1. Search on our community**
  
@@ -77,15 +79,3 @@ All set? Go ahead and create your first issue and contribute with our communnity
 
 <a href="https://github.com/vtex-apps/store-discussion/issues/new?labels=question&template=question.md" rel="some text">![Foo](https://user-images.githubusercontent.com/18701182/60684393-ed3aeb80-9e73-11e9-87b9-012f5368dbbf.png)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/vtex-apps/store-discussion/issues/new?labels=bug&template=bug_report.md" rel="some text">![Foo](https://user-images.githubusercontent.com/18701182/60684371-cc729600-9e73-11e9-929d-2bbc3f599565.png)</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/vtex-apps/store-discussion/issues/new?labels=feature-request&template=feature_request.md" rel="some text">![Foo](https://user-images.githubusercontent.com/18701182/60684351-b49b1200-9e73-11e9-837d-1d5fadb3e366.png)</a>
-
-## Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://github.com/juliomoreira"><img src="https://avatars2.githubusercontent.com/u/1207017?v=4" width="100px;" alt="Julio Moreira"/><br /><sub><b>Julio Moreira</b></sub></a><br /><a href="#ideas-juliomoreira" title="Ideas, Planning, & Feedback">🤔</a></td><td align="center"><a href="https://github.com/hapoza"><img src="https://avatars3.githubusercontent.com/u/27775611?v=4" width="100px;" alt="Dan"/><br /><sub><b>Dan</b></sub></a><br /><a href="#content-hapoza" title="Content">🖋</a></td></tr></table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
