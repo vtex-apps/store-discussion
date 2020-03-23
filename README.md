@@ -21,7 +21,7 @@ It's, therefore, a central **place to**:
 
 ## Good practices
 
-Before jumping and creating an issue, please follow our good practices guides:
+Before jumping and creating an issue, please read [our Code of Conduct](./CODE_OF_CONDUCT.md) and follow our good practices guides:
 
  **1. Search on our community**
  
