@@ -68,7 +68,7 @@ After you've already created an issue and discussed what you want to implement i
 9. Create your pull request. During this step make sure to fill out the whole pull request template, including a workspace where we can test your implementation and, if applicable, screenshots that might also help us.
 10. Tag the Store Framework team (`@vtex-apps/store-framework-devs` on GitHub) for review.
 
-    ![store-framework-review-request.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/544d6c0c-3f18-4ea1-9ed3-06b61a264832/store-framework-review-request.gif)
+    ![store-framework-review-request](https://user-images.githubusercontent.com/27777263/132237790-6e1c6110-96b7-419d-812f-e13c64433a2c.gif)
 
 ## Documentation
 
