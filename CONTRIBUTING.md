@@ -47,7 +47,7 @@ After you've already created an issue and discussed what you want to implement i
 4. Make your changes.
 5. Ensure that the test suite passes. Run `yarn test` in the repository root to run all tests in the app. In some apps, running this command in the root will give you an error saying that there's no such command. In this case, run `yarn test` inside the `/react` or `/node` folders.
 6. Make sure your code is formatted properly by running `yarn lint` in the repository root.
-7. Update the `[CHANGELOG.md](http://changelog.md)` file. Our changelog files are written following the pattern described at [https://keepachangelog.com/en/1.0.0/](https://keepachangelog.com/en/1.0.0/).
+7. Update the `CHANGELOG.md` file. Our changelog files are written following the pattern described at [https://keepachangelog.com/en/1.0.0/](https://keepachangelog.com/en/1.0.0/).
 
     To make your PR easier to merge and avoid getting notified by conflicts every time a change to the changelog is made, make sure to place your entry**directly** below the `[Unreleased]` header, with no empty line in between.Here's an example:
 
