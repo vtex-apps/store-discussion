@@ -2,7 +2,7 @@
 
 This is the single contributing guide to help you contribute to any of Store Framework's repositories. Keep in mind that all contributions made in Store Framework repositories are open to the public. And the pull request + code review cycle is the same for core team members, engineers inside of VTEX, and external contributors.
 
-One important point to make here is that we want our community to be as open and accessible as possible, and language should definitely not be a barrier. Throughout this guide, we'll recommend you to open issues and pull requests in our repositories, both of which will include a writing step. If you're not comfortable writing in English, please feel free to do so in Portuguese.
+One important point to make here is that we want our community to be as open and accessible as possible, and language should not be a barrier. Throughout this guide, we'll recommend you to open issues and pull requests in our repositories, both of which will include a writing step. If you're not comfortable writing in English, please feel free to do so in Portuguese.
 
 ## Bugs
 
@@ -19,7 +19,7 @@ Please provide us with as much information as possible. Here are a few things th
 
 If you intend to change the [public API](#what-is-considered-a-public-api) or make any non-trivial changes to the implementation, please open a new issue describing in as much detail as possible the motivation for the changes and how you plan on implementing it. This lets us reach an agreement on your proposal before you put significant effort into it, and also gives our Product Managers the chance to review your proposal from a Product standpoint. This also allows us to understand how your changes might impact other stores using the framework.
 
-If you’re only fixing a bug, it’s fine to submit a pull request right away, but we still recommend opening an issue detailing what you’re fixing. This is helpful in case we don’t accept that specific fix but want to keep track of the issue.
+Even if you’re only fixing a bug, we still recommend opening an issue detailing what you’re fixing. This is helpful in case we don’t accept that specific fix but want to keep track of the issue, and also helps us understand how many people are experiencing the same issues.
 
 ### What is considered a public API?
 
@@ -49,7 +49,7 @@ After you've already created an issue and discussed what you want to implement i
 6. Make sure your code is formatted properly by running `yarn lint` in the repository root.
 7. Update the `[CHANGELOG.md](http://changelog.md)` file. Our changelog files are written following the pattern described at [https://keepachangelog.com/en/1.0.0/](https://keepachangelog.com/en/1.0.0/).
 
-    To make your PR easier to merge and avoid getting notified by conflictsevery time a change to the changelog is made, make sure to place your entry**directly** below the `[Unreleased]` header, with no empty line in between.Here's an example:
+    To make your PR easier to merge and avoid getting notified by conflicts every time a change to the changelog is made, make sure to place your entry**directly** below the `[Unreleased]` header, with no empty line in between.Here's an example:
 
     ```markdown
     ## [Unreleased]
@@ -82,4 +82,5 @@ Office Hours is a weekly one-hour meeting with community members, the core team,
 
 The event is open to everyone and you are always welcome! Important to note that the event is conducted in Portuguese, but if you don't speak the language, no worries. You can come and ask us your questions in English.
 
-ADD INSTRUCTIONS ON HOW TO PARTICIPATE
+To participate in the event, join [this Zoom room](https://vtex.zoom.us/j/96795350497?pwd%3DSzBYY25FdnQrSkdwbWtKQVh3K2lWdz09&sa=D) at Tuesdays 4PM GMT-3 (Brasília time).
+ 
