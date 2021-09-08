@@ -6,7 +6,7 @@ One important point to make here is that we want our community to be as open and
 
 ## Bugs
 
-If you've found a bug or something is not behaving in the way you expected it to, feel free to [open an issue](https://github.com/vtex-apps/store-discussion/issues/new/choose) **after** you've checked to see if anyone else already reported the same bug. This is important to make it easier for us to track these issues. We'll do our best to review them and let you know when we're working on a fix.
+If you've found a bug or something is not behaving in the way you expected it to, feel free to [open an issue](https://github.com/vtex-apps/store-discussion/issues/new/choose) **after** you've checked [the existing issues](https://github.com/vtex-apps/store-discussion/issues) to see if anyone else already reported the same bug. This is important to make it easier for us to track these issues. We'll do our best to review them and let you know when we're working on a fix.
 
 Please provide us with as much information as possible. Here are a few things that help us investigate a bug:
 
@@ -41,7 +41,7 @@ If this is your first time opening a PR in GitHub, check out this free video cou
 
 After you've already created an issue and discussed what you want to implement into the framework, you can go to the repository containing the app you want to change and follow these steps:
 
-1. Fork the repository to your account and create a branch based on `master` (or main, depending on which is the name of the default branch).
+1. Fork the repository to your account and create a branch based on `master` (or `main`, depending on which is the name of the default branch).
 2. Run `yarn` in the repository root. This will add code-style tools (Prettier and ESLint), git hooks using Husky, and testing tools. Note that these tools will use the configuration included in the repository you're working on. **Do not** change or ignore configuration files since they will make sure you're following our development patterns and speed up the review process.
 3. Run `yarn` inside the `/react` and/or `/node` folders. This will install the necessary dependencies for the app itself.
 4. Make your changes.
@@ -49,7 +49,7 @@ After you've already created an issue and discussed what you want to implement i
 6. Make sure your code is formatted properly by running `yarn lint` in the repository root.
 7. Update the `CHANGELOG.md` file. Our changelog files are written following the pattern described at [https://keepachangelog.com/en/1.0.0/](https://keepachangelog.com/en/1.0.0/).
 
-    To make your PR easier to merge and avoid getting notified by conflicts every time a change to the changelog is made, make sure to place your entry**directly** below the `[Unreleased]` header, with no empty line in between.Here's an example:
+    To make your PR easier to merge and avoid getting notified by conflicts every time a change to the changelog is made, make sure to place your entry **directly** below the `[Unreleased]` header, with no empty line in between. Here's an example:
 
     ```markdown
     ## [Unreleased]
@@ -82,5 +82,5 @@ Office Hours is a weekly one-hour meeting with community members, the core team,
 
 The event is open to everyone and you are always welcome! Important to note that the event is conducted in Portuguese, but if you don't speak the language, no worries. You can come and ask us your questions in English.
 
-To participate in the event, join [this Zoom room](https://vtex.zoom.us/j/96795350497?pwd%3DSzBYY25FdnQrSkdwbWtKQVh3K2lWdz09&sa=D) at Tuesdays 4PM GMT-3 (Brasília time).
+To participate in the event, join [this Zoom room](https://vtex.zoom.us/j/96795350497?pwd%3DSzBYY25FdnQrSkdwbWtKQVh3K2lWdz09&sa=D) on Tuesdays at 4PM GMT-3 (Brasília time).
  
